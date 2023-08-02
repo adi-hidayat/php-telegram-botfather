@@ -1,6 +1,6 @@
 <?php
 
-require_once "../botfather/Botfather.php";
+require_once "../botfather/TelegramBot.php";
 
 // add your bot token here
 $botToken = '';
